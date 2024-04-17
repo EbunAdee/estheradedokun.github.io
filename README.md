@@ -48,10 +48,9 @@ Some basic maps are provided in this repo in the maps/ directory, but you can ma
 
 After running `./maze maps/level_1` you should see a screen like this:
 
-![Screenshot from 2023-11-21 10-23-10]
+
 If you're using the provided maps it'll just be a red screen, but that's not all. If you rotate with the arrow keys to the right you'll see the rest of the maze:
 
-![Screenshot from 2023-11-21 10-27-31]
 ## Play the Game
 The goal of the game is to find the end of the maze. To move through the maze use the arrow keys. The left and right arrow keys will rotate the player. The up and down arrow keys will move the player forward or backward.
 
@@ -92,10 +91,6 @@ The files in the `maps/` directory provide examples of the file format for a maz
 
 ## Author :black_nib:
 1. _[ESTHER ADEDOKUN] | [Github](https://github.com/EbunAdee) | [Linkedin](https://www.linkedin.com/in/adedokun-esther-2a91a5122) | [Twitter](https://twitter.com/EbunAde)._
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 # Acknowledgements 🙏
 All work contained in this project was completed as part of the curriculum for _Alx-Africa_. _Alx-Africa_ is a remote-based full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit this [link](https://www.alxafrica.com/).
